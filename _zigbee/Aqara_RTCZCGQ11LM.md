@@ -6,7 +6,7 @@ title: Presence Detector FP1
 category: sensor
 supports: presence, presence event, monitoring mode, approach distance, power outage count, motion sensitivity, reset nopresence status
 zigbeemodel: ['lumi.motion.ac01']
-compatible: [z2m, deconz]
+compatible: [z2m, deconz, zha]
 deconz: 6070
 mlink: https://www.aqara.com/cn/productDetail/Aqara-Presence-Detector-FP1
 link: 
